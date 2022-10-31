@@ -1,7 +1,7 @@
 # صفحة هبوط : لسماعات راس  🎧 .
-### Responsive Landing Page Headphones 🎧 .
+### صفحة هبوط : لسماعات راس 🎧 .
 
-- Beautiful headphone landing page using HTML, CSS and JAVASCRIPT .
+- صفحة هبوط جميلة لسماعة الرأس باستخدام HTML و CSS و JAVASCRIPT .
 - Dark interface .
 - With animations when scrolling .
 - Developed first with the Mobile First methodology, then for desktop .
